@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* test_phonegap_appAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 860}}";
+			sepNavSelRange = "{235, 28}";
+			sepNavVisRange = "{0, 294}";
+		};
+	};
+	1D3623250D0F684500981E51 /* test_phonegap_appAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1839}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* test_phonegap_app */ = {
+		activeExec = 0;
+		executables = (
+			9A771E0010CCAEEC005B1C21 /* test_phonegap_app */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9A771E0010CCAEEC005B1C21 /* test_phonegap_app */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* test_phonegap_app */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* test_phonegap_app */,
+		);
+		codeSenseManager = 9A771E2010CCAF18005B1C21 /* Code sense */;
+		executables = (
+			9A771E0010CCAEEC005B1C21 /* test_phonegap_app */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 281849580;
+			PBXWorkspaceStateSaveDate = 281849580;
+		};
+		sourceControlManager = 9A771E1F10CCAF18005B1C21 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9A771E0010CCAEEC005B1C21 /* test_phonegap_app */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = test_phonegap_app;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9A771E1F10CCAF18005B1C21 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9A771E2010CCAF18005B1C21 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9A771E8310CCCAB5005B1C21 /* LICENSE.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 599}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1071}";
+		};
+	};
+}

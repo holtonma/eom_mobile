@@ -1,0 +1,1243 @@
+Ttest_phonegap_app
+v7
+r0
+t281857580.829413
+cCheck dependencies
+cProcessInfoPlistFile /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/Info.plist test_phonegap_app-Info.plist
+cPhaseScriptExecution "Copy PhoneGap Javascript" /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Script-30E9A9A110B758320022D3BA.sh
+cCpResource build/Debug-iphonesimulator/test_phonegap_app.app/www www
+cCpResource build/Debug-iphonesimulator/test_phonegap_app.app/VERSION /Users/holtonma/Documents/PhoneGapLib/VERSION
+cCpResource build/Debug-iphonesimulator/test_phonegap_app.app/LICENSE.txt www/LICENSE.txt
+cCpResource build/Debug-iphonesimulator/test_phonegap_app.app/README.txt www/README.txt
+cCpResource build/Debug-iphonesimulator/test_phonegap_app.app/sample.htaccess www/sample.htaccess
+cProcessPCH /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch.gch test_phonegap_app_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/main.o /Users/holtonma/git/iphone/test_phonegap_app/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_appAppDelegate.o /Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app normal i386
+cGenerateDSYMFile /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app.dSYM /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app
+cTouch /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004ABE051D00000000000000EE
+t1253967133
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB032000000000000FBE0
+t1242279986
+s64480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004A0BB46C0000000000032300
+t1242281068
+s205568
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004A0BB4690000000000000A8D
+t1242281065
+s2701
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004A0BC0CB00000000000CAE50
+t1242284235
+s831056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004A0BC0C000000000000001D0
+t1242284224
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB0000000000180330
+t1242410443
+s1573680
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004A0DADB6000000000000D5B9
+t1242410422
+s54713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F49A0
+t1242278542
+s1001888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A0CD38B0000000000041070
+t1242354571
+s266352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38600000000000001AF
+t1242354566
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BD650
+t1242441143
+s775760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E4270
+t1242279476
+s934512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004A0BA939000000000004BD60
+t1242278201
+s310624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+c000000004A0CBEBF0000000000000FC8
+t1242349247
+s4040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004A0CBEBD00000000000018BF
+t1242349245
+s6335
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h
+c000000004A0CBEC10000000000000BF1
+t1242349249
+s3057
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h
+c000000004A0CBEBC00000000000006D4
+t1242349244
+s1748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004B1C40CB0000000000000A53
+t1260142795
+s2643
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004B1C40CB0000000000000170
+t1260142795
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/Device.h
+c000000004B1C40CB0000000000000141
+t1260142795
+s321
+i<UIKit/UIKit.h>
+i<UIKit/UIDevice.h>
+i"PhoneGapCommand.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004B1C40CB00000000000008F9
+t1260142795
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/Location.h
+c000000004B1C40CB0000000000000530
+t1260142795
+s1328
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004B1C40CB00000000000002ED
+t1260142795
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004B1C40CB00000000000006A8
+t1260142795
+s1704
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Device.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+i"UIControls.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004B1C40CB000000000000029B
+t1260142795
+s667
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/Sound.h
+c000000004B1C40CB000000000000060C
+t1260142795
+s1548
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/Classes/UIControls.h
+c000000004B1C40CB000000000000064B
+t1260142795
+s1611
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<UIKit/UITabBar.h>
+i<UIKit/UIToolbar.h>
+i"PhoneGapCommand.h"
+
+N/Users/holtonma/Documents/PhoneGapLib/VERSION
+c000000004B1C40CB0000000000000005
+t1260142795
+s5
+
+N/Users/holtonma/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a
+c000000004B1C77FB00000000000B9D68
+t1260156923
+s761192
+
+N/Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.h
+c000000004B1C776A0000000000000126
+t1260156778
+s294
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m
+c000000004B1C776A000000000000081E
+t1260156778
+s2078
+i"test_phonegap_appAppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app
+t1260164780
+s340
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app.dSYM
+t1260156946
+s102
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/.htaccess
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/Info.plist
+t1260156924
+s608
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/LICENSE.txt
+t1260164780
+s1075
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/PkgInfo
+t1260156924
+s8
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/README.txt
+t1260164780
+s835
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/VERSION
+t1260156924
+s5
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/ajax.html
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/ajax_post.php
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/backButton.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/back_button.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/back_button_clicked.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/blueButton.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/button.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/button_clicked.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/cache.manifest
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/cancel.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/chevron.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/chevron_circle.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/clock.css
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/face.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/grayButton.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/hour.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/icon.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/index.html
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.css
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.min.css
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/listArrowSel.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/listGroup.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/loading.gif
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/minute.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/on_off.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/pinstripes.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/rowhead.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/sample.htaccess
+t1260164780
+s1450
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/second.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/selection.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/startup.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app
+t1260156945
+s221816
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/theme.css
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/theme.min.css
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/thumb.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/toggle.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/toggleOn.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/toolButton.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/toolbar.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/whiteButton.png
+t2
+s0
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/www
+t1260162128
+s408
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/main.o
+t1260156941
+s6152
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_app.LinkFileList
+c000000004B1C77FB0000000000000140
+t1260156923
+s320
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_appAppDelegate.o
+t1260156941
+s38880
+
+N/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Script-30E9A9A110B758320022D3BA.sh
+c000000004B1C77FB00000000000000BE
+t1260156923
+s190
+
+N/Users/holtonma/git/iphone/test_phonegap_app/main.m
+c000000004B1C776B0000000000000193
+t1260156779
+s403
+i<UIKit/UIKit.h>
+
+N/Users/holtonma/git/iphone/test_phonegap_app/test_phonegap_app_Prefix.pch
+c000000004B1C776B00000000000000CB
+t1260156779
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www
+c000000004B1C8C3D00000000000001BA
+t1260162109
+s442
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/LICENSE.txt
+c000000004ACBA7800000000000000433
+t1254860672
+s1075
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/README.txt
+c000000004ACBA7800000000000000343
+t1254860672
+s835
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/clock.css
+c000000004ACBA78200000000000003D1
+t1254860674
+s977
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/icon.png
+c000000004ACBA7820000000000000956
+t1254860674
+s2390
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/img/face.png
+c000000004ACBA78200000000000010CD
+t1254860674
+s4301
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/img/hour.png
+c000000004ACBA78200000000000001E5
+t1254860674
+s485
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/img/minute.png
+c000000004ACBA7820000000000000192
+t1254860674
+s402
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/img/second.png
+c000000004ACBA782000000000000012A
+t1254860674
+s298
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/img/startup.png
+c000000004ACBA7820000000000001C4F
+t1254860674
+s7247
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/clock/index.html
+c000000004ACBA7820000000000001C8B
+t1254860674
+s7307
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/customanimation/index.html
+c000000004ACBA7820000000000000AFF
+t1254860674
+s2815
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/customanimation/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/customanimation/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/customanimation2/index.html
+c000000004ACBA7820000000000000E52
+t1254860674
+s3666
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/customanimation2/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/customanimation2/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_autotitles/index.html
+c000000004ACBA782000000000000069F
+t1254860674
+s1695
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_autotitles/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_autotitles/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_floaty/index.html
+c000000004ACBA7820000000000000C9E
+t1254860674
+s3230
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_floaty/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_floaty/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_location/index.html
+c000000004ACBA78200000000000007C7
+t1254860674
+s1991
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_location/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_location/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_offline/.htaccess
+c000000004ACBA7820000000000000025
+t1254860674
+s37
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_offline/cache.manifest
+c000000004ACBA78200000000000002BC
+t1254860674
+s700
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_offline/index.html
+c000000004ACBA78200000000000004F1
+t1254860674
+s1265
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_offline/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_offline/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/ext_offline/sample.htaccess
+c000000004ACBA7820000000000000025
+t1254860674
+s37
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/main/ajax.html
+c000000004ACBA782000000000000022E
+t1254860674
+s558
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/main/ajax_post.php
+c000000004ACBA7820000000000000423
+t1254860674
+s1059
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/main/index.html
+c000000004ACBA7820000000000003F0E
+t1254860674
+s16142
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/main/jqt_startup.png
+c000000004ACBA78200000000000031CA
+t1254860674
+s12746
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/main/jqtouch.png
+c000000004ACBA78200000000000011BC
+t1254860674
+s4540
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/todo/icon.png
+c000000004ACBA7820000000000000AED
+t1254860674
+s2797
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/todo/index.html
+c000000004ACBA7820000000000001E74
+t1254860674
+s7796
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/demos/todo/startup.png
+c000000004ACBA78200000000000048AB
+t1254860674
+s18603
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/jqtouch/jqtouch.css
+c000000004ACBA7800000000000001D95
+t1254860672
+s7573
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/jqtouch/jqtouch.min.css
+c000000004ACBA77E0000000000001777
+t1254860670
+s6007
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/sample.htaccess
+c000000004ACBA78000000000000005AA
+t1254860672
+s1450
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/backButton.png
+c000000004ACBA780000000000000030F
+t1254860672
+s783
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/blueButton.png
+c000000004ACBA7800000000000000205
+t1254860672
+s517
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/cancel.png
+c000000004ACBA780000000000000016A
+t1254860672
+s362
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/chevron.png
+c000000004ACBA7800000000000000103
+t1254860672
+s259
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/grayButton.png
+c000000004ACBA78000000000000003AF
+t1254860672
+s943
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/listArrowSel.png
+c000000004ACBA7800000000000000134
+t1254860672
+s308
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/listGroup.png
+c000000004ACBA7800000000000000B2F
+t1254860672
+s2863
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/loading.gif
+c000000004ACBA780000000000000059B
+t1254860672
+s1435
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/on_off.png
+c000000004ACBA7800000000000000A4A
+t1254860672
+s2634
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/pinstripes.png
+c000000004ACBA7800000000000000075
+t1254860672
+s117
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/selection.png
+c000000004ACBA780000000000000009F
+t1254860672
+s159
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/thumb.png
+c000000004ACBA7800000000000000B12
+t1254860672
+s2834
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/toggle.png
+c000000004ACBA7800000000000000AFF
+t1254860672
+s2815
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/toggleOn.png
+c000000004ACBA78000000000000000A3
+t1254860672
+s163
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/toolButton.png
+c000000004ACBA7800000000000000209
+t1254860672
+s521
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/toolbar.png
+c000000004ACBA78000000000000000A8
+t1254860672
+s168
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/img/whiteButton.png
+c000000004ACBA78000000000000003D2
+t1254860672
+s978
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/theme.css
+c000000004ACBA780000000000000322B
+t1254860672
+s12843
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/apple/theme.min.css
+c000000004ACBA7800000000000002505
+t1254860672
+s9477
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/back_button.png
+c000000004ACBA7800000000000000EAC
+t1254860672
+s3756
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/back_button_clicked.png
+c000000004ACBA7800000000000000E9D
+t1254860672
+s3741
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/button.png
+c000000004ACBA7800000000000000CF3
+t1254860672
+s3315
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/button_clicked.png
+c000000004ACBA7800000000000000CD3
+t1254860672
+s3283
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/chevron.png
+c000000004ACBA7800000000000000C02
+t1254860672
+s3074
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/chevron_circle.png
+c000000004ACBA78000000000000004DB
+t1254860672
+s1243
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/grayButton.png
+c000000004ACBA78000000000000003AF
+t1254860672
+s943
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/loading.gif
+c000000004ACBA78000000000000009E8
+t1254860672
+s2536
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/on_off.png
+c000000004ACBA78000000000000009C0
+t1254860672
+s2496
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/rowhead.png
+c000000004ACBA78000000000000000AB
+t1254860672
+s171
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/toggle.png
+c000000004ACBA7800000000000000AFF
+t1254860672
+s2815
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/toggleOn.png
+c000000004ACBA78000000000000000A3
+t1254860672
+s163
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/toolbar.png
+c000000004ACBA7800000000000000325
+t1254860672
+s805
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/img/whiteButton.png
+c000000004ACBA78000000000000003D2
+t1254860672
+s978
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/theme.css
+c000000004ACBA78000000000000030B8
+t1254860672
+s12472
+
+N/Users/holtonma/git/iphone/test_phonegap_app/www/themes/jqt/theme.min.css
+c000000004ACBA780000000000000259C
+t1254860672
+s9628
+
+N/var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch.gch
+t1260156940
+s12957072
+
+Ntest_phonegap_app-Info.plist
+c000000004B1C776B000000000000038D
+t1260156779
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281857580#281857580#0(124"[WARN]warning: no rule to process file '$(PROJECT_DIR)/www/phonegap.js' of type sourcecode.javascript for architecture i3861(22@117"warning: no rule to process file '$(PROJECT_DIR)/www/phonegap.js' of type sourcecode.javascript for architecture i386281857580#18446744073709551615#0#0(1@0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/main.o /Users/holtonma/git/iphone/test_phonegap_app/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281849741.156809
+e281849741.341353
+r1
+xCompileC
+xbuild/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/main.o
+x/Users/holtonma/git/iphone/test_phonegap_app/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/holtonma/git/iphone/test_phonegap_app/main.m281849741#281849741#0(0"0(0#0#51"/Users/holtonma/git/iphone/test_phonegap_app/main.m4300885448#2238"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-generated-files.hmap -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-own-target-headers.hmap -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-all-target-headers.hmap -iquote /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-project-headers.hmap -F/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator -iquote/Users/holtonma/Documents/PhoneGapLib/Classes -I/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/include -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources/i386 -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources -include /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch -c /Users/holtonma/git/iphone/test_phonegap_app/main.m -o /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/main.o0#
+
+CCompileC build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_appAppDelegate.o /Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281849741.159595
+e281849741.461890
+r1
+xCompileC
+xbuild/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_appAppDelegate.o
+x/Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m281849741#281849741#0(0"0(0#0#83"/Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m4300885448#2294"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-generated-files.hmap -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-own-target-headers.hmap -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-all-target-headers.hmap -iquote /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-project-headers.hmap -F/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator -iquote/Users/holtonma/Documents/PhoneGapLib/Classes -I/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/include -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources/i386 -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources -include /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch -c /Users/holtonma/git/iphone/test_phonegap_app/Classes/test_phonegap_appAppDelegate.m -o /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_appAppDelegate.o0#
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/.htaccess www/demos/ext_offline/.htaccess
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/LICENSE.txt www/LICENSE.txt
+s281857580.790701
+e281857580.819747
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/test_phonegap_app.app/LICENSE.txt
+xwww/LICENSE.txt
+lSLF07#2@20"Copy www/LICENSE.txt281857580#281857580#0(0"0(0#0#60"/Users/holtonma/git/iphone/test_phonegap_app/www/LICENSE.txt4300885448#549"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/holtonma/git/iphone/test_phonegap_app/www/LICENSE.txt /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app0#
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/README.txt www/README.txt
+s281857580.791603
+e281857580.822303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/test_phonegap_app.app/README.txt
+xwww/README.txt
+lSLF07#2@19"Copy www/README.txt281857580#281857580#0(0"0(0#0#59"/Users/holtonma/git/iphone/test_phonegap_app/www/README.txt4300885448#548"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/holtonma/git/iphone/test_phonegap_app/www/README.txt /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app0#
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/VERSION /Users/holtonma/Documents/PhoneGapLib/VERSION
+s281849724.277611
+e281849724.429334
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/test_phonegap_app.app/VERSION
+x/Users/holtonma/Documents/PhoneGapLib/VERSION
+lSLF07#2@50"Copy /Users/holtonma/Documents/PhoneGapLib/VERSION281849724#281849724#0(0"0(0#0#45"/Users/holtonma/Documents/PhoneGapLib/VERSION4300885448#534"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/holtonma/Documents/PhoneGapLib/VERSION /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app0#
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/ajax.html www/demos/main/ajax.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/ajax_post.php www/demos/main/ajax_post.php
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/backButton.png www/themes/apple/img/backButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/back_button.png www/themes/jqt/img/back_button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/back_button_clicked.png www/themes/jqt/img/back_button_clicked.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/blueButton.png www/themes/apple/img/blueButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/button.png www/themes/jqt/img/button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/button_clicked.png www/themes/jqt/img/button_clicked.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/cache.manifest www/demos/ext_offline/cache.manifest
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/cancel.png www/themes/apple/img/cancel.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/chevron.png www/themes/apple/img/chevron.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/chevron.png www/themes/jqt/img/chevron.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/chevron_circle.png www/themes/jqt/img/chevron_circle.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/clock.css www/demos/clock/clock.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/face.png www/demos/clock/img/face.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/grayButton.png www/themes/apple/img/grayButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/grayButton.png www/themes/jqt/img/grayButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/hour.png www/demos/clock/img/hour.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/icon.png www/demos/clock/icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/icon.png www/demos/todo/icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/clock/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/customanimation/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/customanimation2/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/ext_autotitles/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/ext_floaty/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/ext_location/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/ext_offline/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/main/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/index.html www/demos/todo/index.html
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/customanimation/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/customanimation2/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/ext_autotitles/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/ext_floaty/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/ext_location/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/ext_offline/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqt_startup.png www/demos/main/jqt_startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.css www/jqtouch/jqtouch.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.min.css www/jqtouch/jqtouch.min.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/customanimation/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/customanimation2/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/ext_autotitles/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/ext_floaty/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/ext_location/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/ext_offline/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/jqtouch.png www/demos/main/jqtouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/listArrowSel.png www/themes/apple/img/listArrowSel.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/listGroup.png www/themes/apple/img/listGroup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/loading.gif www/themes/apple/img/loading.gif
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/loading.gif www/themes/jqt/img/loading.gif
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/minute.png www/demos/clock/img/minute.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/on_off.png www/themes/apple/img/on_off.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/on_off.png www/themes/jqt/img/on_off.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/pinstripes.png www/themes/apple/img/pinstripes.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/rowhead.png www/themes/jqt/img/rowhead.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/sample.htaccess www/demos/ext_offline/sample.htaccess
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/sample.htaccess www/sample.htaccess
+s281857580.793446
+e281857580.825446
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/test_phonegap_app.app/sample.htaccess
+xwww/sample.htaccess
+lSLF07#2@24"Copy www/sample.htaccess281857580#281857580#0(0"0(0#0#64"/Users/holtonma/git/iphone/test_phonegap_app/www/sample.htaccess4300885448#553"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/holtonma/git/iphone/test_phonegap_app/www/sample.htaccess /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app0#
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/second.png www/demos/clock/img/second.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/selection.png www/themes/apple/img/selection.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/startup.png www/demos/clock/img/startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/startup.png www/demos/todo/startup.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/theme.css www/themes/apple/theme.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/theme.css www/themes/jqt/theme.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/theme.min.css www/themes/apple/theme.min.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/theme.min.css www/themes/jqt/theme.min.css
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/thumb.png www/themes/apple/img/thumb.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toggle.png www/themes/apple/img/toggle.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toggle.png www/themes/jqt/img/toggle.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toggleOn.png www/themes/apple/img/toggleOn.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toggleOn.png www/themes/jqt/img/toggleOn.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toolButton.png www/themes/apple/img/toolButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toolbar.png www/themes/apple/img/toolbar.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/toolbar.png www/themes/jqt/img/toolbar.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/whiteButton.png www/themes/apple/img/whiteButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/whiteButton.png www/themes/jqt/img/whiteButton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/test_phonegap_app.app/www www
+s281854928.003684
+e281854928.073710
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/test_phonegap_app.app/www
+xwww
+lSLF07#2@8"Copy www281854928#281854928#0(0"0(0#0#48"/Users/holtonma/git/iphone/test_phonegap_app/www4300885448#537"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/holtonma/git/iphone/test_phonegap_app/www /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app0#
+
+CGenerateDSYMFile /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app.dSYM /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app
+s281849745.906468
+e281849747.123296
+r1
+xGenerateDSYMFile
+x/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app.dSYM
+x/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/test_phonegap_app.app.dSYM build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app281849745#281849747#0(0"0(0#0#112"/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app4300885448#493"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app -o /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app.dSYM0#
+
+CLd /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app normal i386
+s281849741.462258
+e281849745.905877
+r1
+xLd
+x/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app
+xnormal
+xi386
+lSLF07#2@117"Link /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app281849741#281849745#0(0"0(0#0#0"4300885448#1321"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator -F/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator -filelist /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_app.LinkFileList -mmacosx-version-min=10.5 -all_load -Obj-C /Users/holtonma/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -o /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/test_phonegap_app0#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Script-30E9A9A110B758320022D3BA.sh
+s281857580.750316
+e281857580.790464
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Script-30E9A9A110B758320022D3BA.sh
+omake: Nothing to be done for `all'.
+ocp /Users/holtonma/Documents/PhoneGapLib/javascripts/phonegap.js /Users/holtonma/git/iphone/test_phonegap_app/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'281857580#281857580#0(162"make: Nothing to be done for `all'.cp /Users/holtonma/Documents/PhoneGapLib/javascripts/phonegap.js /Users/holtonma/git/iphone/test_phonegap_app/www/phonegap.js2(13@36"make: Nothing to be done for `all'.281857580#0#36#0(1@0"0(13@126"cp /Users/holtonma/Documents/PhoneGapLib/javascripts/phonegap.js /Users/holtonma/git/iphone/test_phonegap_app/www/phonegap.js281857580#36#126#0(1@0"0(0#0#0"4300885448#18067"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv ACTION build    setenv ALTERNATE_GROUP holtonma    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER holtonma    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/holtonma/git/iphone/test_phonegap_app/build    setenv BUILD_ROOT /Users/holtonma/git/iphone/test_phonegap_app/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH test_phonegap_app.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/test_phonegap_app.dst    setenv DWARF_DSYM_FILE_NAME test_phonegap_app.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH test_phonegap_app.app/Executables    setenv EXECUTABLE_FOLDER_PATH test_phonegap_app.app    setenv EXECUTABLE_NAME test_phonegap_app    setenv EXECUTABLE_PATH test_phonegap_app.app/test_phonegap_app    setenv FILE_LIST /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH test_phonegap_app.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME test_phonegap_app.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER test_phonegap_app_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30000"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 501    setenv GROUP holtonma    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE test_phonegap_app-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH test_phonegap_app.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/test_phonegap_app.dst/Users/holtonma/Applications    setenv INSTALL_GROUP holtonma    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER holtonma    setenv INSTALL_PATH /Users/holtonma/Applications    setenv INSTALL_ROOT /tmp/test_phonegap_app.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH test_phonegap_app.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal/i386/test_phonegap_app.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1062    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0602    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Objects-normal    setenv OBJROOT /Users/holtonma/git/iphone/test_phonegap_app/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH test_phonegap_app.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/holtonma/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/PkgInfo    setenv PKGINFO_PATH test_phonegap_app.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH test_phonegap_app.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH test_phonegap_app.app/PrivateHeaders    setenv PRODUCT_NAME test_phonegap_app    setenv PRODUCT_SETTINGS_PATH /Users/holtonma/git/iphone/test_phonegap_app/test_phonegap_app-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT test_phonegap_app    setenv PROJECT_DERIVED_FILE_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/DerivedSources    setenv PROJECT_DIR /Users/holtonma/git/iphone/test_phonegap_app    setenv PROJECT_FILE_PATH /Users/holtonma/git/iphone/test_phonegap_app/test_phonegap_app.xcodeproj    setenv PROJECT_NAME test_phonegap_app    setenv PROJECT_TEMP_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build    setenv PUBLIC_HEADERS_FOLDER_PATH test_phonegap_app.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH test_phonegap_app.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk    setenv SDK_NAME iphonesimulator3.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH test_phonegap_app.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH test_phonegap_app.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/holtonma/git/iphone/test_phonegap_app    setenv SRCROOT /Users/holtonma/git/iphone/test_phonegap_app    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/SymbolRepositories    setenv SYMROOT /Users/holtonma/git/iphone/test_phonegap_app/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME test_phonegap_app    setenv TARGET_BUILD_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator    setenv TARGET_NAME test_phonegap_app    setenv TARGET_TEMP_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build    setenv TEMP_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build    setenv TEMP_FILES_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build    setenv TEMP_FILE_DIR /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build    setenv TEMP_ROOT /Users/holtonma/git/iphone/test_phonegap_app/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH test_phonegap_app.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER holtonma    setenv USER_APPS_DIR /Users/holtonma/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/holtonma/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/holtonma/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH test_phonegap_app.app/version.plist    setenv VERSION_INFO_BUILDER holtonma    setenv VERSION_INFO_FILE test_phonegap_app_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:test_phonegap_app  PROJECT:test_phonegap_app-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME test_phonegap_app.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0321    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/Script-30E9A9A110B758320022D3BA.sh0#
+
+CProcessInfoPlistFile /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/Info.plist test_phonegap_app-Info.plist
+s281849724.003380
+e281849724.064202
+r1
+xProcessInfoPlistFile
+x/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/Info.plist
+xtest_phonegap_app-Info.plist
+lSLF07#2@36"Process test_phonegap_app-Info.plist281849724#281849724#0(0"0(0#0#73"/Users/holtonma/git/iphone/test_phonegap_app/test_phonegap_app-Info.plist4300885448#589"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility test_phonegap_app-Info.plist -genpkginfo /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app/Info.plist0#
+
+CProcessPCH /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch.gch test_phonegap_app_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s281849724.465007
+e281849741.156387
+r1
+xProcessPCH
+x/var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch.gch
+xtest_phonegap_app_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile test_phonegap_app_Prefix.pch281849724#281849741#0(0"0(0#0#73"/Users/holtonma/git/iphone/test_phonegap_app/test_phonegap_app_Prefix.pch4300885448#2114"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-generated-files.hmap -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-own-target-headers.hmap -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-all-target-headers.hmap -iquote /Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/test_phonegap_app-project-headers.hmap -F/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator -iquote/Users/holtonma/Documents/PhoneGapLib/Classes -I/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/include -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources/i386 -I/Users/holtonma/git/iphone/test_phonegap_app/build/test_phonegap_app.build/Debug-iphonesimulator/test_phonegap_app.build/DerivedSources -c /Users/holtonma/git/iphone/test_phonegap_app/test_phonegap_app_Prefix.pch -o /var/folders/XS/XS3Oz77+EOCeYpSRaWpdq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/test_phonegap_app_Prefix-fdhqeqjffrreqscntkfwouwhqsrb/test_phonegap_app_Prefix.pch.gch0#
+
+CTouch /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app
+s281857580.825962
+e281857580.829351
+r1
+xTouch
+x/Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app
+lSLF07#2@100"Touch /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app281857580#281857580#0(0"0(0#0#0"4300885448#362"    cd /Users/holtonma/git/iphone/test_phonegap_app    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/holtonma/git/iphone/test_phonegap_app/build/Debug-iphonesimulator/test_phonegap_app.app0#
+
